@@ -264,11 +264,12 @@ Create a new branch so you can check items like this, just put an x in the brack
    git push # just pushes to your fork
    ```
 
-## Don't feel you aren't smart enough
+## Don't feel you aren't smart enough [X]
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - The following videos may help you overcome this insecurity:
   - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+    - Don't try to be a genius :)
   - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## A Note About Video Resources
@@ -280,14 +281,14 @@ It would be great to replace the online course resources with free and always-av
 such as YouTube videos (preferably university lectures), so that you people can study these anytime,
 not just when a specific online course is in session.
 
-## Choose a Programming Language
+## Choose a Programming Language [X]
 
 You'll need to choose a programming language for the coding interviews you do,
 but you'll also need to find a language that you can use to study computer science concepts.
 
 Preferably the language would be the same, so that you only need to be proficient in one.
 
-### For this Study Plan
+### For this Study Plan [X]
 
 When I did the study plan, I used 2 languages for most of it: C and Python
 
